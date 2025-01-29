@@ -4,7 +4,7 @@
 # Version: 1.0.0
 
 A simple Python library to convert normal data (e.g., dictionaries, lists, custom objects) into JSON format.
-# project Url 
+# Project Url 
 [Project Url ](https://pypi.org/project/normal-to-json/)
 
 ## Installation
