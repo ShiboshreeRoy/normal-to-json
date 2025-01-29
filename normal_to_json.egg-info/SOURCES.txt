@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+normal_to_json/__init__.py
+normal_to_json/converter.py
+normal_to_json.egg-info/PKG-INFO
+normal_to_json.egg-info/SOURCES.txt
+normal_to_json.egg-info/dependency_links.txt
+normal_to_json.egg-info/top_level.txt

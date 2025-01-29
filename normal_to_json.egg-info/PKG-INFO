@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: normal_to_json
+Version: 1.0.0
+Summary: A Python library to convert normal data to JSON.
+Author: Shiboshree Roy
+Author-email: shiboshreeroy169@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Normal to JSON Library
+
+A simple Python library to convert normal data (e.g., dictionaries, lists, custom objects) into JSON format.
+
+## Installation
+
+```bash
+pip install normal_to_json
